@@ -1,0 +1,18 @@
+create index.html
+in index.html create one headin in that heading..mention company name and add two hyperlink which contain studentinfo,displaydata.
+
+
+inside student info.....create info.html
+
+info.html
+add input1)first name
+2)last name
+3)marks
+4) show butt
+
+requirement validate form,show data in object format on screen,also show starting 2 character of first name last two character of surname,and age......in concat format
+
+
+in display.html
+use Jquery and Ajax to to load data
+and create data.txt file 

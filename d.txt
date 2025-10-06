@@ -1,0 +1,15 @@
+Q1)  Q1 Using Html CSS Javascript, show a web page that displays a poem in a div with yellow background, rounded solid blue border. Font size should be 3em, the poem should be seen in black and italics and the div should be shown in the center of the browser. Use ID selector with external CSS.
+
+Q1)Using HTML,CSS,JS code, Calculate Simple Interest .Perform a calculation and show
+ the result in an <output> tag. Accept principal amout,time and rate of interset values  10 Marks
+using 3 different textfields . And one button ,whenever clicked on button ,
+Result of SI should display using output tag..
+
+
+Q4)Using AJAX code follow  the given steps								10 Marks
+a) send a request on a  server
+b)fetch data from dummy serverhttps://jsonplaceholder.typicode.com/users) without reloading 
+the browser window.
+c) process the data given by server
+d)show the progress bar in the form of statuscode till we get response from the server.
+e)display each users data using <p>tag on webpage
